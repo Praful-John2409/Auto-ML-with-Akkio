@@ -40,6 +40,3 @@ To access and interact with these models, copy the links above and paste them in
 Video demonstration for this assignment .  
 [YouTube Video Link](#)
 
----
-
-Let me know if you'd like further customizations!
