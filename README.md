@@ -19,7 +19,7 @@ For this assignment, I developed a **Speech to Text Transcript Generator** using
 [Assignment 1.2 GitHub Repository: AI Pair Programmer](https://github.com/Praful-John2409/Use-AI-Pair-Programmer-.git)
 
 Video demonstration for this assignment will be updated soon.  
-[YouTube Video Link Placeholder](#)
+[YouTube Video Link](#)
 
 ---
 
@@ -38,7 +38,7 @@ In this assignment, I created two predictive models using **Auto ML with Akkio**
 To access and interact with these models, copy the links above and paste them into your web browser.
 
 Video demonstration for this assignment .  
-[YouTube Video Link Placeholder](#)
+[YouTube Video Link](#)
 
 ---
 
