@@ -1,28 +1,45 @@
+# CMPE 255: Data Mining Assignment 1 Submission
 
-# Auto ML Prediction Models Using Akkio
+Welcome to the assignment submission page for **CMPE 255: Data Mining**. Below are the links to the assignments I have completed.
 
-This repository contains links to two predictive models developed using **Akkio** Auto ML, demonstrating the power of no-code machine learning solutions. These models provide insight into employee attrition and Titanic survivor predictions, built and deployed with minimal coding effort, thanks to Akkio’s robust platform.
+---
 
-## Projects
+## Assignment 1.1: Python in One Shot
+
+In this assignment, I cover Python fundamentals in a single comprehensive project.
+
+[Assignment 1.1 GitHub Repository: Python in One Shot](https://github.com/Praful-John2409/Python-in-one-shot.git)
+
+---
+
+## Assignment 1.2: AI Pair Programmer
+
+For this assignment, I developed a **Speech to Text Transcript Generator** using **Cursor AI**.
+
+[Assignment 1.2 GitHub Repository: AI Pair Programmer](https://github.com/Praful-John2409/Use-AI-Pair-Programmer-.git)
+
+Video demonstration for this assignment will be updated soon.  
+[YouTube Video Link Placeholder](#)
+
+---
+
+## Assignment 1.3: Auto ML Prediction Models with Akkio
+
+In this assignment, I created two predictive models using **Auto ML with Akkio**:
 
 1. **Employee Attrition Prediction Model**
-
-   This model predicts whether an employee is likely to leave based on historical data. It uses several employee attributes to generate accurate predictions and provides valuable insights for HR decision-making.
-
    [Employee Attrition Prediction Model](https://app.akkio.com/deployments/c45c987c-b446-428e-bf19-353790e8f449)
 
 2. **Titanic Survivor Prediction Model**
-
-   This model predicts the likelihood of survival for passengers on the Titanic based on features like age, gender, class, and fare. It is built using the famous Titanic dataset and showcases Akkio's ability to handle complex datasets effortlessly.
-
    [Titanic Survivor Prediction Model](https://app.akkio.com/deployments/138c3d6d-aec5-435e-bf1b-270c36b7f434)
 
-## How to Access the Models
+### How to Access the Models
 
-You can view and interact with these models by simply copy-pasting the provided links into your web browser.
+To access and interact with these models, copy the links above and paste them into your web browser.
 
-## Video Demonstration
+Video demonstration for this assignment .  
+[YouTube Video Link Placeholder](#)
 
-For a detailed walkthrough of the model development process using Akkio, check out the video:
+---
 
-[Watch the video demonstration here](#)
+Let me know if you'd like further customizations!
