@@ -38,5 +38,5 @@ In this assignment, I created two predictive models using **Auto ML with Akkio**
 To access and interact with these models, copy the links above and paste them into your web browser.
 
 Video demonstration for this assignment .  
-[YouTube Video Link](#)
+[YouTube Video Link](https://youtu.be/VS6jWW97gqA?si=0yS3mJJFC8ADAfCF)
 
