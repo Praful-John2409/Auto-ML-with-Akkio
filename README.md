@@ -19,7 +19,7 @@ For this assignment, I developed a **Speech to Text Transcript Generator** using
 [Assignment 1.2 GitHub Repository: AI Pair Programmer](https://github.com/Praful-John2409/Use-AI-Pair-Programmer-.git)
 
 Video demonstration for this assignment will be updated soon.  
-[YouTube Video Link](#)
+[YouTube Video Link](https://youtu.be/I0b7MmtLsic?si=TNeO5WHz1H2zOFc2)
 
 ---
 
